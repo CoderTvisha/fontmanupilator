@@ -1,0 +1,17 @@
+.note{
+background: #a7e4ca;
+top: 0;
+margin-top: 0;
+padding: 2px;
+}
+
+canvas{
+    border: 2px solid aliceblue;
+    border-radius: 20px;
+box-shadow: 5px 5px 5px grey;
+}
+
+body{
+    background-image: url(bg.jpg);
+    font-family: 'Delicious Handrawn', cursive;
+}
